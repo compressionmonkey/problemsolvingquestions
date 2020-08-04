@@ -4,7 +4,7 @@ Question 1: https://www.hackerrank.com/challenges/simple-array-sum/problem
 Question 2: https://www.hackerrank.com/challenges/compare-the-triplets/problem
 Question 3: https://www.hackerrank.com/challenges/a-very-big-sum/problem
 Question 4: 
-Question 5:
+Question 5: https://www.hackerrank.com/challenges/plus-minus/problem
 Question 6: https://www.hackerrank.com/challenges/staircase/problem
 Question 7: https://www.hackerrank.com/challenges/time-conversion/problem
 Question 8:
