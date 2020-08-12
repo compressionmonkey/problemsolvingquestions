@@ -15,4 +15,10 @@ Question 12:
 Question 13: https://www.hackerrank.com/challenges/apple-and-orange/problem
 Question 14: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
 Question 15: https://www.hackerrank.com/challenges/extra-long-factorials/problem
+Question 16: 
+Question 17: https://www.hackerrank.com/challenges/encryption/problem
+
 dawatest: https://www.hackerrank.com/challenges/js10-arrays/problem
+
+
+develoep and priving branch

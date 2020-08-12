@@ -15,22 +15,21 @@
 // console.log(BigInt(product))
 
 // recursive need to learn
-// generateNumberFactorial = n => {
-//     n = BigInt(n);
+generateNumberFactorial = num => {
+    num = BigInt(num)
+    return num === 0n ? 1n : num * generateNumberFactorial(num - 1n);
+  };
   
-//     return n === 0n ? 1n : n * generateNumberFactorial(n - 1n);
-//   };
+  let testMagicNumber = 25;
   
-//   let testMagicNumber = 30;
+  const factorial = BigInt(generateNumberFactorial(testMagicNumber));
   
-//   const factorial = generateNumberFactorial(testMagicNumber).toString();
-  
-//   console.log(factorial);
+  console.log(factorial);
 // iterative
 
-const num = 25
-var rval=1;
-for (var i = 2; i <= num; i++){
-  rval = rval * i;
-}
-console.log(BigInt(rval))
+// const num = 25
+// var rval=1;
+// for (var i = 2; i <= num; i++){
+//   rval = rval * i;
+// }
+// console.log(BigInt(rval))
