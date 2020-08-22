@@ -30,11 +30,12 @@ for(let i=0; i< newS.length; i+= columns){
     arr.push(newS.substring(i, columns + i))
 }
 // to get string in format I used someone's code
-Array.from({length: columns}).forEach((value, index) => {
+// Array.from({length: columns}).forEach((value, index) => {
+for(let i=0; i < columns; i++) {
     arr.forEach(chunk => {
-        word += (chunk[index] || '')
+        word += (chunk[i] || '')
     })
 
     word += " "
-})
+}
 console.log(word) 

@@ -17,8 +17,7 @@ Question 14: https://www.hackerrank.com/challenges/climbing-the-leaderboard/prob
 Question 15: https://www.hackerrank.com/challenges/extra-long-factorials/problem
 Question 16: 
 Question 17: https://www.hackerrank.com/challenges/encryption/problem
+Question 17: https://www.hackerrank.com/challenges/bigger-is-greater/problem?h_r=next-challenge&h_v=zen
+Question 19: https://www.hackerrank.com/challenges/the-time-in-words/problem
 
 dawatest: https://www.hackerrank.com/challenges/js10-arrays/problem
-
-
-develoep and priving branch
