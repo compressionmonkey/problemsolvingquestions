@@ -1,0 +1,22 @@
+{
+  "name": "problemsolvingquestions",
+  "version": "1.0.0",
+  "description": "Question 1: https://www.hackerrank.com/challenges/simple-array-sum/problem\r Question 2: https://www.hackerrank.com/challenges/compare-the-triplets/problem\r Question 3: https://www.hackerrank.com/challenges/a-very-big-sum/problem\r Question 4: \r Question 5: https://www.hackerrank.com/challenges/plus-minus/problem\r Question 6: https://www.hackerrank.com/challenges/staircase/problem\r Question 7: https://www.hackerrank.com/challenges/time-conversion/problem\r Question 8:\r Question 9: https://www.hackerrank.com/challenges/mini-max-sum/problem\r Question 10: https://www.hackerrank.com/challenges/birthday-cake-candles/problem\r Question 11:\r Question 12:\r Question 13: https://www.hackerrank.com/challenges/apple-and-orange/problem\r Question 14: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem\r Question 15: https://www.hackerrank.com/challenges/extra-long-factorials/problem\r Question 16: \r Question 17: https://www.hackerrank.com/challenges/encryption/problem\r Question 17: https://www.hackerrank.com/challenges/bigger-is-greater/problem?h_r=next-challenge&h_v=zen\r Question 19: https://www.hackerrank.com/challenges/the-time-in-words/problem",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compressionmonkey/problemsolvingquestions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/compressionmonkey/problemsolvingquestions/issues"
+  },
+  "homepage": "https://github.com/compressionmonkey/problemsolvingquestions#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
