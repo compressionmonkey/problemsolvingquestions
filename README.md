@@ -21,6 +21,9 @@ Question 17: https://www.hackerrank.com/challenges/bigger-is-greater/problem?h_r
 Question 19: https://www.hackerrank.com/challenges/the-time-in-words/problem
 Question 20: https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem
 Question 21: https://www.hackerrank.com/challenges/bigger-is-greater/problem?h_r=next-challenge&h_v=zen
+Question 22: https://www.hackerrank.com/challenges/two-pluses/problem
 
 dawatest: https://www.hackerrank.com/challenges/js10-arrays/problem
 codeforces2: https://codeforces.com/contest/1400/problem/B
+
+testing Situations are just normal cases you come across
