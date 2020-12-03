@@ -1,1 +1,1 @@
-!'' && console.log('gay') || console.log(12)
+!'' && console.log('asd') || console.log(12)
